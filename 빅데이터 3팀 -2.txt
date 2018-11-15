@@ -1,0 +1,15 @@
+20181113
+
+국내 - 대종상, 청룡영화상, 백상예술대상
+국외 - 칸, 아카데미, 토론토, 베를린
+         (벤쿠버)
+
+네이버 영화 랭킹 - https://movie.naver.com/movie/sdb/rank/rmovie.nhn?sel=pnt&date=20181112&page=1
+로튼 베스트 - https://www.rottentomatoes.com/top/bestofrt/
+IMDb - https://www.imdb.com/chart/top
+cgv - 평점 http://www.cgv.co.kr/movies/point/?lt=1&midx=81181
+
+네이버꺼를 쭉 크롤링 -> 다음에서 검색 & 평점 크롤링
+(인원 대비 평점)
+db화
+
